@@ -1,2 +1,2 @@
-## Build Worldpress website usinng AWS console
+## Build Wordpress website usinng AWS console
 
